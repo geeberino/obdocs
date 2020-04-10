@@ -31,3 +31,7 @@ You can train mining using `+mine [quantity] <ore>`, for example `+mine 10 coal`
 | Adamantite ore | ✔ |   | 70 |
 | Runite ore | ✔ |   | 85 |
 | Amethyst |  |  ✔ | 92 |
+
+## Woodcutting
+
+You can train woodcutting using `+chop [quantity] <logs>`, for example `+chop 10 oak`.
